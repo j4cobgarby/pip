@@ -1,8 +1,8 @@
-#Pip syntax
+# Pip syntax
 
 The syntax of Pip is generally C-like with strong influence from Python, Perl/PHP, and various golfing languages. A few features are reminiscent of Bash script or Lisp.
 
-###Tokens
+### Tokens
 
 Any of the following is a token in Pip:
 
